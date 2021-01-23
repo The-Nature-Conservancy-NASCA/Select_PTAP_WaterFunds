@@ -174,3 +174,9 @@ Este archivo contiene el tipo de plata (A, B, C, D, E, F, G) de acuerdo con la n
 	# -----------------------------------------------------------------------------------
 	PathProject_PTAP = r'C:\Users\jonathan.nogales\Music\Select_PTAP_WaterFunds\Project'
 	Select_PTAP(PathProject_PTAP)
+
+## Salidas
+El resultado de esta función corresponde al archivo denominado **1-Type_PTAP.csv** el cual se dispone en la carpeta **OUTPUTS** 
+|Type|
+|--|
+|A|
