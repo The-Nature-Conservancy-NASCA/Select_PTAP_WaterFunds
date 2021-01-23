@@ -125,7 +125,7 @@ Las unidades en las cuales deben ingresar los datos son en Kilogramos
 ### 5_Table_Select_PTAP.csv
 Este archivo contiene los rangos de calidad del agua (concentraciones en mg/l) definidos por el especialista en plantas de tratamiento. 
 
-<img src="https://github.com/The-Nature-Conservancy-NASCA/Select_PTAP_WaterFunds/blob/main/FIGURES/Fig_1.png" width="100" height="30" />
+<img src="https://github.com/The-Nature-Conservancy-NASCA/Select_PTAP_WaterFunds/blob/main/FIGURES/Fig_1.PNG" width="100" height="30" />
 
 La estructura de este archivo se presenta a continuación:
 
@@ -140,7 +140,7 @@ La estructura de este archivo se presenta a continuación:
 ### 6_Table_Select_Quality.csv
 Este archivo contiene la tabla de clasificación de tipo de PTAP propuesta por el especialista en plantas de tratamiento.
 
-<img src="https://github.com/The-Nature-Conservancy-NASCA/Select_PTAP_WaterFunds/blob/main/FIGURES/Fig_2.png" width="100" height="30" />
+<img src="https://github.com/The-Nature-Conservancy-NASCA/Select_PTAP_WaterFunds/blob/main/FIGURES/Fig_2.PNG" width="100" height="30" />
 
 La numeración utilizada fue la siguiente:
 
