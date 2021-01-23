@@ -90,7 +90,7 @@ A continuación, se describen cada uno de los archivos
 Este archivo contiene las salidas de volumen de agua del algoritmo de balance, para el elemento CSinfra. La cantidad de columnas dependerá de la cantidad de captaciones que el usuario haya seleccionado para su caso de estudio. Mientras que la cantidad de filas corresponde al número de años. Para el caso particular de la WaterFund, este archivo solo contiene una fila. A continuación, se presenta su estructura para 3 entradas de CSinfra. 
 
 |Time|Csinfra-1|Csinfra-2|Csinfra-3|
-|--|--|--|--|--|
+|--|--|--|--|
 |1|100000|20000|50000|
 
 Las unidades en las cuales deben ingresar los datos son en m^3
@@ -99,7 +99,7 @@ Las unidades en las cuales deben ingresar los datos son en m^3
 Este archivo contiene las salidas de toneladas de sedimento del algoritmo de balance, para el elemento CSinfra. La cantidad de columnas dependerá de la cantidad de captaciones que el usuario haya seleccionado para su caso de estudio. Mientras que la cantidad de filas corresponde al número de años. Para el caso particular de la WaterFund, este archivo solo contiene una fila. A continuación, se presenta su estructura para 3 entradas de CSinfra. 
 
 |Time|Csinfra-1|Csinfra-2|Csinfra-3|
-|--|--|--|--|--|
+|--|--|--|--|
 |1|1000|200|50|
 
 Las unidades en las cuales deben ingresar los datos son en Toneladas
@@ -108,7 +108,7 @@ Las unidades en las cuales deben ingresar los datos son en Toneladas
 Este archivo contiene las salidas de toneladas de nitrógeno del algoritmo de balance, para el elemento CSinfra. La cantidad de columnas dependerá de la cantidad de captaciones que el usuario haya seleccionado para su caso de estudio. Mientras que la cantidad de filas corresponde al número de años. Para el caso particular de la WaterFund, este archivo solo contiene una fila. A continuación, se presenta su estructura para 4 entradas de CSinfra. 
 
 |Time|Csinfra-1|Csinfra-2|Csinfra-3|
-|--|--|--|--|--|
+|--|--|--|--|
 |1|1000|200|50|
 
 Las unidades en las cuales deben ingresar los datos son en Kilogramos
@@ -117,7 +117,7 @@ Las unidades en las cuales deben ingresar los datos son en Kilogramos
 Este archivo contiene las salidas de toneladas de fosforo del algoritmo de balance, para el elemento CSinfra. La cantidad de columnas dependerá de la cantidad de captaciones que el usuario haya seleccionado para su caso de estudio. Mientras que la cantidad de filas corresponde al número de años. Para el caso particular de la WaterFund, este archivo solo contiene una fila. A continuación, se presenta su estructura para 4 entradas de CSinfra. 
 
 |Time|Csinfra-1|Csinfra-2|Csinfra-3|
-|--|--|--|--|--|
+|--|--|--|--|
 |1|1000|200|50|
 
 Las unidades en las cuales deben ingresar los datos son en Kilogramos
