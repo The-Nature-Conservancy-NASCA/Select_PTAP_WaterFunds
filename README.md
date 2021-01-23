@@ -125,7 +125,7 @@ Las unidades en las cuales deben ingresar los datos son en Kilogramos
 ### 5_Table_Select_PTAP.csv
 Este archivo contiene los rangos de calidad del agua (concentraciones en mg/l) definidos por el especialista en plantas de tratamiento. 
 
-<img src="https://github.com/The-Nature-Conservancy-NASCA/Select_PTAP_WaterFunds/blob/main/FIGURES/Fig_1.PNG" width="700" height="400" />
+<img src="https://github.com/The-Nature-Conservancy-NASCA/Select_PTAP_WaterFunds/blob/main/FIGURES/Fig_1.PNG" width="800" height="400" />
 
 La estructura de este archivo se presenta a continuación:
 
