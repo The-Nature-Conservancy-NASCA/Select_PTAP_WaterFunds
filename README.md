@@ -11,10 +11,10 @@ Este Script permite seleccionar el tipo de planta de acuerdo con la calidad del 
 
 	def Select_PTAP(PathProject_PTAP):
 	    # Leer Archivos de entrada
-	    AWY = pd.read_csv( os.path.join(PathProject_PTAP,'INPUTS','1_WI_AWY.csv'))
-	    N   = pd.read_csv( os.path.join(PathProject_PTAP,'INPUTS','3_WI_WN.csv'))
-	    P   = pd.read_csv( os.path.join(PathProject_PTAP,'INPUTS','4_WI_WP.csv'))
-	    S   = pd.read_csv( os.path.join(PathProject_PTAP,'INPUTS','2_WI_WSed.csv'))
+	    AWY = pd.read_csv( os.path.join(PathProject_PTAP,'INPUTS','1_WI_AWY.csv'),  index_col=0)
+	    N   = pd.read_csv( os.path.join(PathProject_PTAP,'INPUTS','3_WI_WN.csv'),  index_col=0)
+	    P   = pd.read_csv( os.path.join(PathProject_PTAP,'INPUTS','4_WI_WP.csv'),  index_col=0)
+	    S   = pd.read_csv( os.path.join(PathProject_PTAP,'INPUTS','2_WI_WSed.csv'),  index_col=0)
 	    NQ  = pd.read_csv( os.path.join(PathProject_PTAP,'INPUTS','7_NormQuality.csv'))
 	    SelectQuality   = pd.read_csv( os.path.join(PathProject_PTAP,'INPUTS','6_Table_Select_Quality.csv'))
 	    SelectPTAP      = pd.read_csv( os.path.join(PathProject_PTAP,'INPUTS','5_Table_Select_PTAP.csv'))
