@@ -12,7 +12,11 @@ def Select_PTAP(PathProject_PTAP):
     NQ  = pd.read_csv( os.path.join(PathProject_PTAP,'INPUTS','7_NormQuality.csv'))
     SelectQuality   = pd.read_csv( os.path.join(PathProject_PTAP,'INPUTS','6_Table_Select_Quality.csv'))
     SelectPTAP      = pd.read_csv( os.path.join(PathProject_PTAP,'INPUTS','5_Table_Select_PTAP.csv'))
-
+    
+    # Check AWY = 0  -> 0.0031536 m3 = 0.1 l/s
+    id = AWY  == 0
+    AWY[id] = 0.0031536
+    
     # Factor
     # Kg/m3 -> mg/l
     Factor_1 = 1000
